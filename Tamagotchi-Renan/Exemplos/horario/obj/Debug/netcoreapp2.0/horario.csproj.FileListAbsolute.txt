@@ -1,0 +1,10 @@
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\bin\Debug\netcoreapp2.0\horario.deps.json
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\bin\Debug\netcoreapp2.0\horario.runtimeconfig.json
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\bin\Debug\netcoreapp2.0\horario.runtimeconfig.dev.json
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\bin\Debug\netcoreapp2.0\horario.dll
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\bin\Debug\netcoreapp2.0\horario.pdb
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\obj\Debug\netcoreapp2.0\horario.csproj.CoreCompileInputs.cache
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\obj\Debug\netcoreapp2.0\horario.AssemblyInfoInputs.cache
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\obj\Debug\netcoreapp2.0\horario.AssemblyInfo.cs
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\obj\Debug\netcoreapp2.0\horario.dll
+C:\Users\Clodoaldo Basaglia\Documents\UTF2018\Tamagotchi\Exemplos\horario\obj\Debug\netcoreapp2.0\horario.pdb

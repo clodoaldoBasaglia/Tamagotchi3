@@ -1,0 +1,188 @@
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\GameSolution.Resources.resources
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\GameSolution.vbproj.GenerateResource.cache
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\GameSolution.vbproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\GameSolution.dll.config
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\GameSolution.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\GameSolution.pdb
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\WebForms_Basic.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\csc.exe
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\csc.exe.config
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\csc.rsp
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\csi.exe
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\csi.exe.config
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\csi.rsp
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.AppContext.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Console.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.IO.Compression.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.IO.Pipes.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Security.Claims.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Threading.Thread.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.ValueTuple.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Xml.XPath.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\vbc.exe
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\vbc.exe.config
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\vbc.rsp
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Antlr3.Runtime.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.Web.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Newtonsoft.Json.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\System.Web.Optimization.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\WebGrease.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\System.Web.Optimization.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Newtonsoft.Json.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Antlr3.Runtime.pdb
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.AI.Web.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\GameSolution.vbprojAssemblyReference.cache
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\GameSolution.vbproj.CopyComplete
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\GameSolution.dll
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\WebForms_Basic.xml
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\obj\Debug\GameSolution.pdb
+C:\Users\renan\Desktop\Tamagotchi\Game\GameSolution\bin\AjaxControlToolkit.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\GameSolution.dll.config
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\GameSolution.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\GameSolution.pdb
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\WebForms_Basic.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\csc.exe
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\csc.exe.config
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\csc.rsp
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\csi.exe
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\csi.exe.config
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\csi.rsp
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.AppContext.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Console.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.IO.Compression.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Security.Claims.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.ValueTuple.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\vbc.exe
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\vbc.exe.config
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\vbc.rsp
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\AjaxControlToolkit.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Antlr3.Runtime.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.Web.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Newtonsoft.Json.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\System.Web.Optimization.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\WebGrease.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\System.Web.Optimization.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Newtonsoft.Json.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Antlr3.Runtime.pdb
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.AI.Web.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\GameSolution.vbprojAssemblyReference.cache
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\GameSolution.Resources.resources
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\GameSolution.vbproj.GenerateResource.cache
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\GameSolution.vbproj.CoreCompileInputs.cache
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\GameSolution.vbproj.CopyComplete
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\GameSolution.dll
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\WebForms_Basic.xml
+C:\Users\Clodoaldo Basaglia\Documents\BBBBB\Tamagotchi-Renan\Game\GameSolution\obj\Debug\GameSolution.pdb
